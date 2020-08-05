@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "524421151739",
+    "firebase_url": "https://tomgiongvn-cf406.firebaseio.com",
+    "project_id": "tomgiongvn-cf406",
+    "storage_bucket": "tomgiongvn-cf406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524421151739:android:1d1d1378b95bc9e3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524421151739-db89egdje6edq9i3ajpt4c1rtu0s8ipt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp21z0_UGqR_7NIdUdSxw2h8We5ZFCrx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524421151739-db89egdje6edq9i3ajpt4c1rtu0s8ipt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
